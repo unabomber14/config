@@ -1,0 +1,6 @@
+#!/bin/sh
+pkill -f "xelatex" && exit
+cd docs
+xelatex $(xdotool getactivewindow getwindowname)
+#echo "$1" | entr -p xelatex "$1"
+

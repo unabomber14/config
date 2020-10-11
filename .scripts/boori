@@ -1,0 +1,2 @@
+#!/bin/sh
+qpdf --empty --pages $1 z-1 -- $1_R

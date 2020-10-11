@@ -1,0 +1,2 @@
+#!/bin/sh
+mutool merge -o merged.pdf signature*duplex.pdf

@@ -1,0 +1,3 @@
+#!/bin/sh
+cd ~/boo
+java -jar ~/boo/bookbinder3.0.jar

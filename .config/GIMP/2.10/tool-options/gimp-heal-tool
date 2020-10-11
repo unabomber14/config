@@ -1,0 +1,14 @@
+# GIMP gimp-heal-tool options
+
+(foreground (color-rgb 1 1 1))
+(background (color-rgb 0 0 0))
+(brush "2. Block 01")
+(dynamics "Dynamics Off")
+(palette "Color History")
+(brush-size 26)
+(brush-aspect-ratio 3.1578947368421053)
+(brush-spacing 0.01)
+(brush-hardness 0.94999998807907104)
+(brush-link-size no)
+
+# end of gimp-heal-tool options

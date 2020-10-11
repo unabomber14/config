@@ -1,0 +1,14 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>25C882DB-C241-AA7B-7F0A-C7D86C4F62A4-ProjectGutenbergPrettifier</Name>
+    <Directory>25C882DB-C241-AA7B-7F0A-C7D86C4F62A4-ProjectGutenbergPrettifier.directory</Directory>
+    <Include>
+        <Filename>GUItenMark-program.desktop</Filename>
+        <Filename>GUItenMark-uninstall.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

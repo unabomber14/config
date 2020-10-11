@@ -1,0 +1,24 @@
+#!/bin/sh
+boori signature0side2.pdf
+boori signature1side2.pdf
+boori signature2side2.pdf
+boori signature3side2.pdf
+boori signature4side2.pdf
+boori signature5side2.pdf
+boori signature6side2.pdf
+boori signature7side2.pdf
+boori signature8side2.pdf
+boori signature9side2.pdf
+boori signature10side2.pdf
+boori signature11side2.pdf
+boori signature12side2.pdf
+boori signature13side2.pdf
+boori signature14side2.pdf
+boori signature15side2.pdf
+boori signature16side2.pdf
+boori signature17side2.pdf
+boori signature18side2.pdf
+boori signature19side2.pdf
+boori signature20side2.pdf
+boori signature21side2.pdf
+rm signature*side2.pdf

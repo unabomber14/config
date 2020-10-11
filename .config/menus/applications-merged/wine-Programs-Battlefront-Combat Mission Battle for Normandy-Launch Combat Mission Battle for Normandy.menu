@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Battlefront</Name>
+    <Directory>wine-Programs-Battlefront.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Battlefront-Combat Mission Battle for Normandy</Name>
+    <Directory>wine-Programs-Battlefront-Combat Mission Battle for Normandy.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Battlefront-Combat Mission Battle for Normandy-Launch Combat Mission Battle for Normandy.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>
