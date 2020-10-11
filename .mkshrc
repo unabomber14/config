@@ -1,0 +1,19 @@
+export EDITOR="vim"
+#export https_proxy="localhost:9150"
+#export HISTFILE="$HOME/.mkshhist"
+export TMPDIR="$HOME/.cups/tmp"
+export SUDO_EDITOR="vim"
+export TERMINAL="st"
+export TZ="Asia/Yekaterinbirg"
+export BROWSER="qutebrowser"
+export READER="zathura"
+xset r rate 300 50
+setxkbmap -layout us,ru -option grp:alt_shift_toggle
+#alias vim="nvim -u /home/duma/.vimrc"
+#alias zzz="sudo systemctl suspend"
+alias v="vim"
+alias yt="straw-viewer"
+alias ytd="youtube-dl"
+alias ytdm="youtube-dl -xf bestaudio"
+PATH=$PATH:$HOME/.scripts
+PS1="$(echo -e "\033[01;31m\$ \033[00m")"
